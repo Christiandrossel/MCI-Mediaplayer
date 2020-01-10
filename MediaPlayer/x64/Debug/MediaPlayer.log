@@ -1,0 +1,4 @@
+﻿  MediaPlayerDlg.cpp
+C:\Users\s75931\Desktop\1. praktikum Neu\1.Praktikum\MediaPlayer\MediaPlayerDlg.cpp(252,20): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\s75931\Desktop\1. praktikum Neu\1.Praktikum\MediaPlayer\MediaPlayerDlg.cpp(253,23): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  MediaPlayer.vcxproj -> C:\Users\s75931\Desktop\1. praktikum Neu\1.Praktikum\x64\Debug\MediaPlayer.exe
